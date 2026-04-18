@@ -22,6 +22,7 @@
 </p>
 
 <h3>Recent Projects</h3>
+<h3>Open Source Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -37,8 +38,13 @@
       <td>Web Security & Management</td>
     </tr>
     <tr>
+      <td><b>Wordlist Generator</b></td>
+      <td>Python, Gzip, Multiprocessing</td>
+      <td>Resource Optimization & Brute-force</td>
+    </tr>
+    <tr>
       <td><b>Directory Discovery Tool</b></td>
-      <td>Python, Threading</td>
+      <td>Python, Threading, Proxies</td>
       <td>Security Reconnaissance</td>
     </tr>
     <tr>
