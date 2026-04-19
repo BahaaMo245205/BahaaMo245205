@@ -53,7 +53,7 @@
     </tr>
     <tr>
       <td><b>Directory Discovery Tool</b></td>
-      <td>Python, Threading, Proxies</td>
+      <td>Python, Threading, Proxies , OOP</td>
       <td>Security Reconnaissance</td>
       <td>✅ Completed</td>
     </tr>
