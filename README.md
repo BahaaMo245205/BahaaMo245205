@@ -25,37 +25,49 @@
 <h3>Open Source Projects</h3>
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr style="border: none;">
       <td><b>🎁 Projects</b></td>
       <td><b>🛠 Tech Stack</b></td>
       <td><b>🛡 Focus</b></td>
+      <td><b>🚀 Status</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td><b>Professional Port Scanner</b></td>
+      <td>Python, OOP, Threading, Rich</td>
+      <td>Network Reconnaissance</td>
+      <td>🟢 Active</td>
+    </tr>
+    <tr>
       <td><b>Task Master</b></td>
       <td>Flask, SQLAlchemy, RBAC</td>
       <td>Web Security & Management</td>
+      <td>✅ Completed</td>
     </tr>
     <tr>
       <td><b>Wordlist Generator</b></td>
       <td>Python, Gzip, Multiprocessing</td>
-      <td>Resource Optimization & Brute-force</td>
+      <td>Resource Optimization</td>
+      <td>✅ Completed</td>
     </tr>
     <tr>
       <td><b>Directory Discovery Tool</b></td>
       <td>Python, Threading, Proxies</td>
       <td>Security Reconnaissance</td>
+      <td>✅ Completed</td>
     </tr>
     <tr>
       <td><b>Gym Management System</b></td>
       <td>Python, PyQt5, SQLite</td>
       <td>Desktop App & DB Management</td>
+      <td>✅ Completed</td>
     </tr>
     <tr>
       <td><b>EcoRoute Platform</b></td>
       <td>Python, Flask, Jinja2</td>
       <td>Web Development</td>
+      <td>✅ Completed</td>
     </tr>
   </tbody>
 </table>
