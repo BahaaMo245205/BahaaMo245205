@@ -5,6 +5,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="PyQt5" src="https://img.shields.io/badge/-PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" />
@@ -16,6 +17,7 @@
 
 <h3>Cybersecurity Tools & Focus</h3>
 <p>
+  <img alt="AES Encryption" src="https://img.shields.io/badge/-AES_Encryption-blue?style=flat-square" />
   <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" />
   <img alt="Sqlmap" src="https://img.shields.io/badge/-Sqlmap-FF0000?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-4F5D95?style=flat-square&logo=nmap&logoColor=white" />
@@ -35,15 +37,27 @@
   </thead>
   <tbody>
     <tr>
+      <td><b>Encrypted RAT</b></td>
+      <td>Python, Sockets, AES-128</td>
+      <td>Secure Remote Admin & C2</td>
+      <td>🟢 Active</td>
+    </tr>
+    <tr>
       <td><b>Professional Port Scanner</b></td>
       <td>Python, OOP, Threading, Rich</td>
       <td>Network Reconnaissance</td>
-      <td>🟢 Active</td>
+      <td>✅ Completed</td>
     </tr>
     <tr>
       <td><b>Task Master</b></td>
       <td>Flask, SQLAlchemy, RBAC</td>
       <td>Web Security & Management</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td><b>Java Management System</b></td>
+      <td>Java, Swing, JDBC, MySQL</td>
+      <td>Desktop App Architecture</td>
       <td>✅ Completed</td>
     </tr>
     <tr>
@@ -54,7 +68,7 @@
     </tr>
     <tr>
       <td><b>Directory Discovery Tool</b></td>
-      <td>Python, Threading, Proxies, OOP</td>
+      <td>Python, Threading, Proxies</td>
       <td>Security Reconnaissance</td>
       <td>✅ Completed</td>
     </tr>
