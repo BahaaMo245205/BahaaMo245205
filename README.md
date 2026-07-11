@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Bahaa Mohamed.</h1>
 
-<p>Welcome to my page! </br> I'm an <b>Information Systems Student</b> and <b>Python Developer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/> <b>Giza, Egypt</b>. </p>
+<p>Welcome to my page! </br> I'm an <b>Information Systems Student</b> and <b>Python Backend Developer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/> <b>Giza, Egypt</b>. </p>
 
 <h3>Things I code with</h3>
 <p>
@@ -8,7 +8,6 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="PyQt5" src="https://img.shields.io/badge/-PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" />
   <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -94,5 +93,5 @@
 </p>
 
 <hr/>
-<p align="center"><b>Building secure code and exploring vulnerabilities 🛡️</b></p>
+<p align="center"><b>Building secure backend code and exploring web vulnerabilities 🛡️</b></p>
 <p align="center"><i>"Code like a developer, think like a hacker."</i></p>
