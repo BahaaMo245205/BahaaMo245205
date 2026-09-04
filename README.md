@@ -1,97 +1,139 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Bahaa Mohamed.</h1>
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hey! I'm Bahaa Mohamed.
+</h1>
 
-<p>Welcome to my page! </br> I'm an <b>Information Systems Student</b> and <b>Python Backend Developer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/> <b>Giza, Egypt</b>. </p>
+<p>
+  <b>Information Systems Student</b> &amp; <b>Python Backend Developer</b> from
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/>
+  <b>Giza, Egypt</b>.
+</p>
 
-<h3>Things I code with</h3>
+<p>
+  I build RESTful APIs and full-stack backends with <b>FastAPI</b> &amp; <b>Flask</b>,
+  focusing on clean architecture, authentication, databases, and shipping reliable systems.
+</p>
+
+<h3>🛠 Tech Stack</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
-<h3>Cybersecurity Tools & Focus</h3>
+<h3>🔐 Security Interests</h3>
 <p>
-  <img alt="AES Encryption" src="https://img.shields.io/badge/-AES_Encryption-blue?style=flat-square" />
-  <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" />
-  <img alt="Sqlmap" src="https://img.shields.io/badge/-Sqlmap-FF0000?style=flat-square&logo=linux&logoColor=white" />
-  <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-4F5D95?style=flat-square&logo=nmap&logoColor=white" />
-  <img alt="Web Security" src="https://img.shields.io/badge/-Web_Security_Academy-orange?style=flat-square" />
-  <img alt="Penetration Testing" src="https://img.shields.io/badge/-Pentesting-red?style=flat-square" />
+  <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img alt="RBAC" src="https://img.shields.io/badge/-RBAC-2F6F4E?style=flat-square" />
+  <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img alt="Web Security" src="https://img.shields.io/badge/-Web_Security-orange?style=flat-square" />
 </p>
 
-<h3>Open Source Projects</h3>
+<h3>🚀 Featured Projects</h3>
+
 <table>
   <thead align="center">
-    <tr style="border: none;">
-      <td><b>🎁 Projects</b></td>
-      <td><b>🛠 Tech Stack</b></td>
-      <td><b>🛡 Focus</b></td>
-      <td><b>🚀 Status</b></td>
+    <tr>
+      <td><b>Project</b></td>
+      <td><b>Stack</b></td>
+      <td><b>Focus</b></td>
+      <td><b>Status</b></td>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
-      <td><b>Encrypted RAT</b></td>
-      <td>Python, Sockets, AES-128</td>
-      <td>Secure Remote Admin & C2</td>
+      <td><b>System Gym API</b></td>
+      <td>FastAPI, SQLAlchemy Async, MySQL, Redis, Celery, Stripe, Docker</td>
+      <td>Gym management API, payments, RBAC, CI/CD</td>
       <td>🟢 Active</td>
     </tr>
     <tr>
-      <td><b>Professional Port Scanner</b></td>
-      <td>Python, OOP, Threading, Rich</td>
-      <td>Network Reconnaissance</td>
+      <td><b>Clothing Management System</b></td>
+      <td>Flask, SQLAlchemy, Alembic, Jinja2</td>
+      <td>E-commerce & booking backend</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td><b>EcoRoute Platform</b></td>
+      <td>Flask, Blueprints, SQLAlchemy, Flask-Login</td>
+      <td>Carpooling & task management + RBAC</td>
       <td>✅ Completed</td>
     </tr>
     <tr>
       <td><b>Task Master</b></td>
       <td>Flask, SQLAlchemy, RBAC</td>
-      <td>Web Security & Management</td>
+      <td>Web app security & admin control</td>
       <td>✅ Completed</td>
     </tr>
     <tr>
       <td><b>Java Management System</b></td>
       <td>Java, Swing, JDBC, MySQL</td>
-      <td>Desktop App Architecture</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td><b>Wordlist Generator</b></td>
-      <td>Python, Gzip, Multiprocessing</td>
-      <td>Resource Optimization</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td><b>Directory Discovery Tool</b></td>
-      <td>Python, Threading, Proxies</td>
-      <td>Security Reconnaissance</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td><b>Gym Management System</b></td>
-      <td>Python, PyQt5, SQLite</td>
-      <td>Desktop App & DB Management</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td><b>EcoRoute Platform</b></td>
-      <td>Python, Flask, Jinja2</td>
-      <td>Web Development</td>
+      <td>Desktop architecture & DB access</td>
       <td>✅ Completed</td>
     </tr>
   </tbody>
 </table>
 
-<h3>Where to find me</h3>
+<details>
+  <summary><b>More tools & experiments</b></summary>
+  <br/>
+  <table>
+    <thead align="center">
+      <tr>
+        <td><b>Project</b></td>
+        <td><b>Stack</b></td>
+        <td><b>Focus</b></td>
+      </tr>
+    </thead>
+    <tbody align="center">
+      <tr>
+        <td>Professional Port Scanner</td>
+        <td>Python, OOP, Threading, Rich</td>
+        <td>Network tooling</td>
+      </tr>
+      <tr>
+        <td>Directory Discovery Tool</td>
+        <td>Python, Threading, Proxies</td>
+        <td>Web recon practice</td>
+      </tr>
+      <tr>
+        <td>Wordlist Generator</td>
+        <td>Python, Gzip, Multiprocessing</td>
+        <td>Performance / utilities</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+
+
+<h3>📍 Where to find me</h3>
 <p>
-<a href="https://github.com/BahaaMo245205" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/bahaa-mohamed-6684372a2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/BahaaMo245205" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bahaa-mohamed-6684372a2/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bahaamo56179011@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <hr/>
-<p align="center"><b>Building secure backend code and exploring web vulnerabilities 🛡️</b></p>
-<p align="center"><i>"Code like a developer, think like a hacker."</i></p>
+
+<p align="center">
+  <b>Building reliable backends — and learning to break them so I can secure them better.</b>
+</p>
+<p align="center">
+  <i>"Code like a developer, think like a hacker."</i>
+</p>
